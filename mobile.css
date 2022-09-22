@@ -1,0 +1,27 @@
+@media screen and (max-width:1200px) {
+
+    .main-top-1{
+        width: 62%;
+        font-size: 40px;
+        line-height: 90px;
+        
+    }
+    .main-top-2{
+        padding-left: 20px;
+        font-size: 15px;
+        
+    }
+
+    .section-bottom-1{
+        width: 30%;
+    }
+
+        .section-bottom-2 img[alt="img-1"]{
+        height: 200px;
+        width: 300px;   
+       }
+       
+       .section-2-down img[alt="img-2"] {
+        height: 150px;
+    }
+}
